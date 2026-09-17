@@ -11,9 +11,17 @@ A personal DSA practice repository for TCS NQT preparation.
 - Basic Number Theory
 - Recursion / Dynamic Programming: to be added as practiced
 
+## Completed practice
+
+15 problems are currently recorded in this repository, based on the practice log supplied during preparation.
+
+## Pending
+
+- **3Sum (Triplet Sum)** — https://leetcode.com/problems/3sum/ — logic covered, not solved independently yet.
+
 ## Practice log
 
-The problems currently in this repository are the problems practiced so far. New problems will be added as they are completed, with the problem link, statement, approach context, complexity notes, and Java solution supplied during practice.
+New problems will be added as they are completed, with the problem link, statement, approach context, complexity notes, and Java solution supplied during practice.
 
 ## Source platforms
 
