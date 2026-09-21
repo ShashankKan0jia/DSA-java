@@ -9,11 +9,14 @@ A personal DSA practice repository for TCS NQT preparation.
 - Hashing
 - Strings
 - Basic Number Theory
+- Sorting
+- Patterns
+- Linked List
 - Recursion / Dynamic Programming: to be added as practiced
 
 ## Completed practice
 
-15 problems are currently recorded in this repository, based on the practice log supplied during preparation.
+20 problems are currently recorded in this repository, based on the practice log supplied during preparation.
 
 ## Pending
 
