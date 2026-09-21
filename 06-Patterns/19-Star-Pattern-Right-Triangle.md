@@ -2,6 +2,18 @@
 
 **Statement:** Print a right-angled triangle of stars for n rows.
 
+**Pattern:**
+
+```
+*
+**
+***
+****
+*****
+```
+
+For example, if `n = 5`, print the pattern shown above.
+
 ```java
 import java.util.*;
 public class Main {
