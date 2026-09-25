@@ -34,3 +34,7 @@ New problems will be added as they are completed, with the problem link, stateme
 ## Note
 
 Solutions are recorded from the practice log and are kept close to the versions practiced during preparation.
+
+## Practice notes
+
+Short supporting notes and reusable study guidance are maintained in `notes/README.md`.
