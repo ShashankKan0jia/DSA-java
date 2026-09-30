@@ -1,40 +1,18 @@
 # DSA Java Practice
 
-A personal DSA practice repository for TCS NQT preparation.
+A Java DSA practice repository organized for interview and TCS NQT preparation.
 
-## Topics covered so far
+## Topics
+Arrays and two pointers, sliding window, hashing, strings, number theory, sorting, patterns, and linked lists.
 
-- Arrays & Two Pointers
-- Sliding Window
-- Hashing
-- Strings
-- Basic Number Theory
-- Sorting
-- Patterns
-- Linked List
-- Recursion / Dynamic Programming: to be added as practiced
+## Organization
+- `00-All-Questions/` — serial order
+- Topic folders — grouped practice by concept
 
-## Completed practice
+Completed problems are kept with Java-focused solutions and supporting complexity notes where available.
 
-20 problems are currently recorded in this repository, based on the practice log supplied during preparation.
-
-## Pending
-
-- **3Sum (Triplet Sum)** — https://leetcode.com/problems/3sum/ — logic covered, not solved independently yet.
-
-## Practice log
-
-New problems will be added as they are completed, with the problem link, statement, approach context, complexity notes, and Java solution supplied during practice.
-
-## Source platforms
-
+## Sources
 - LeetCode
 - GeeksforGeeks
 
-## Note
-
-Solutions are recorded from the practice log and are kept close to the versions practiced during preparation.
-
-## Practice notes
-
-Short supporting notes and reusable study guidance are maintained in `notes/README.md`.
+The repository currently records 20 practice problems and keeps serial numbering consistent as new problems are added.
