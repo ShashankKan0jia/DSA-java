@@ -1,10 +1,15 @@
-# 1. Remove Duplicates from Sorted Array
+# Remove Duplicates from Sorted Array
 
 **Platform:** LeetCode  
 **Link:** https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
-**Statement:** Given a sorted array, remove duplicates in-place so each unique value appears only once. Must use O(1) extra space. Return the count of unique elements.
+## Problem
+Given a sorted array, remove duplicates in-place so each unique value appears only once. Must use O(1) extra space. Return the count of unique elements.
 
+## Approach
+Use two pointers. Keep `slow` at the last unique value and scan with `fast`; copy a new value forward whenever it differs.
+
+## Java Solution
 ```java
 class Solution {
     public int removeDuplicates(int[] nums) {
@@ -19,3 +24,13 @@ class Solution {
     }
 }
 ```
+
+## Complexity
+| Metric | Complexity |
+|---|---|
+| Time | O(n) |
+| Space | O(1) |
+
+---
+
+**Practice #01** · DSA Java
